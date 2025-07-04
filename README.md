@@ -27,7 +27,7 @@ This project analyzes Amazon product data to uncover insights about pricing, dis
 
 ## 📸 Dashboard Preview
 
-![Dashboard](images/dashboard_screenshot.png)
+![Dashboard]()
 
 ## 📁 Files
 
